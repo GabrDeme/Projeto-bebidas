@@ -1,0 +1,15 @@
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\bin\Debug\net7.0\Bebidas-switchcase.exe
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\bin\Debug\net7.0\Bebidas-switchcase.deps.json
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\bin\Debug\net7.0\Bebidas-switchcase.runtimeconfig.json
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\bin\Debug\net7.0\Bebidas-switchcase.dll
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\bin\Debug\net7.0\Bebidas-switchcase.pdb
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\obj\Debug\net7.0\Bebidas-switchcase.csproj.AssemblyReference.cache
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\obj\Debug\net7.0\Bebidas-switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\obj\Debug\net7.0\Bebidas-switchcase.AssemblyInfoInputs.cache
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\obj\Debug\net7.0\Bebidas-switchcase.AssemblyInfo.cs
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\obj\Debug\net7.0\Bebidas-switchcase.csproj.CoreCompileInputs.cache
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\obj\Debug\net7.0\Bebidas-switchcase.dll
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\obj\Debug\net7.0\refint\Bebidas-switchcase.dll
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\obj\Debug\net7.0\Bebidas-switchcase.pdb
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\obj\Debug\net7.0\Bebidas-switchcase.genruntimeconfig.cache
+C:\Users\53144094889\Desktop\Back-end\Bebidas-switchcase\obj\Debug\net7.0\ref\Bebidas-switchcase.dll
